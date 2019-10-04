@@ -9,8 +9,7 @@ Imported from Google Code 2012
 There have been many other versions of this tool around, and none had been updated for the season two masteries, so i took it upon myself to make my own version of the tool!
 
 Requirements:
-
-.NET 4 - http://www.microsoft.com/download/en....aspx?id=17851 (http://www.microsoft.com/download/en/details.aspx?id=17851)
+ - .NET 4 - http://www.microsoft.com/download/en....aspx?id=17851 (http://www.microsoft.com/download/en/details.aspx?id=17851)
  - Being able to run League with a resolution of 1280x800 or 1024x640
  - ( Has a re-sizer to help, fairly standard sizes, most people should be fine )
 
