@@ -1,9 +1,7 @@
-Old project of mine from 2012.
-
-Here's a youtube video of someone demoing it's usage. https://www.youtube.com/watch?v=goBtZ9tbtEo
-
 # lol-mastery-manager
-Imported from Google Code 2012
+Old project of mine from 2012 - Imported from Google Code archive
+
+# [Demo Video](https://www.youtube.com/watch?v=goBtZ9tbtEo)
 
 # [Archived Forum Post](https://web.archive.org/web/20130930163223/http://forum.leaguecraft.com/index.php?/topic/38503-minidude22s-lol-mastery-manager/)
 There have been many other versions of this tool around, and none had been updated for the season two masteries, so i took it upon myself to make my own version of the tool!
